@@ -15,9 +15,12 @@ html{
 }
 #submit-button:active{
     box-shadow:1px 1px 1px 1px #90A4AE;
-#submit-button{
-    
     font-size: 25px;
     background-color: #000000;
     color: #FF0000;
+}
+
+li{
+    padding: 5px;
+    margin-bottom: 10px;
 }
