@@ -1,6 +1,10 @@
+
 html{
-  color: green;
+  border-style: solid;
+  border-color: black;
+  
 }
+
 .todo{
     font-weight:bold;
     color: #F44336;
@@ -8,4 +12,12 @@ html{
     border-radius: 50px;
     font-size: 14px;
     padding: 5px 10px 5px 10px;
+}
+#submit-button:active{
+    box-shadow:1px 1px 1px 1px #90A4AE;
+#submit-button{
+    
+    font-size: 25px;
+    background-color: #000000;
+    color: #FF0000;
 }
