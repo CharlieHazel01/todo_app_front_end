@@ -5,9 +5,7 @@ $(document).ready(function(){
     
     $("ul").append("<li><input type='checkbox'/>") + description.val() + "<span class='todo'>""</span></li>")
     
-    
     description.val("")
-    
     
     })
 })
