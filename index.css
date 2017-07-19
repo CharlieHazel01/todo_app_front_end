@@ -6,22 +6,26 @@
     font-size: 14px;
     padding: 5px 10px 5px 10px;
 }
+
 #submit-button:active{
     box-shadow:1px 1px 1px 1px #90A4AE;
     font-size: 10px;
     background-color: green;
     color: #FF0000;
 }
+
 li{
     color: green;
     padding: 5px;
     margin-bottom: 10px;
 }
-h1{
+
+#index-h1{
     color: green;
     font-family: sans-serif;
 }
 body{
     background-image: url(https://goo.gl/otCCwC);
     background-position: 
+    
 }
