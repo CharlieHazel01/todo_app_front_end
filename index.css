@@ -26,6 +26,6 @@ li{
 }
 body{
     background-image: url(https://goo.gl/otCCwC);
-    background-position: 
+  /*  background-image:    remove repeat on image*/
     
 }
