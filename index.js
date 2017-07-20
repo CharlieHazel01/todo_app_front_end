@@ -8,7 +8,7 @@ $(document).ready(function(){
     description.val("");
     
     })
-    $(document).ready(function(){
+    /*$(document).ready(function(){
         $("#")
-    }
+    })*/
 })
